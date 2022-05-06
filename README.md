@@ -9,7 +9,7 @@ https://github.com/pentestpeople/laravel_challenge
 Installed laravel project and setup
 * composer create-project laravel/laravel ticket_system
 
-Running on Terminal (.py file)
+Running on Terminal
 * php artisan serve
 
 Added database name in .env file
